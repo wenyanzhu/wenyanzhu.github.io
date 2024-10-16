@@ -1,5 +1,5 @@
 
-## Open G.R.S for Open, Growth, Resilience, Smarts
+## Open G.R.S for Open, Growth, Resilience, Smart
 
 **P.E.A.C.E** is
   **P**roduct
