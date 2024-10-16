@@ -1,5 +1,5 @@
 
-## Engineering for Experience and Efficiency
+## Open G.R.S for Open, Growth, Resilience, Smarts
 
 **P.E.A.C.E** is
   **P**roduct
