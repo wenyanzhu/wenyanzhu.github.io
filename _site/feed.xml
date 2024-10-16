@@ -1,0 +1,53 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Open G.R.S</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-10-16T23:09:24+11:00</updated>
+  <author>
+    <name></name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <rights> © 2024  </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Notes for AWS</title>
+    <link href="http://localhost:4000/posts/notes-for-aws/" rel="alternate" type="text/html" title="Notes for AWS" />
+    <published>2024-10-16T22:50:00+11:00</published>
+  
+    <updated>2024-10-16T22:50:00+11:00</updated>
+  
+    <id>http://localhost:4000/posts/notes-for-aws/</id>
+    <content src="http://localhost:4000/posts/notes-for-aws/" />
+    <author>
+      <name><wenyan></name>
+    </author>
+
+  
+    
+    <category term="AWS" />
+    
+  
+
+  <summary>Notes for AWS is a collection of notes for learning Amazon Web Service.
+
+What is the hope of the world?
+
+Have you asked the questions what is the hope of the world?
+
+There is an answer from Stephen Walfram that the world is from a basic science of the phenomenon of computational irreducibly, so it tells us the world is reliable. On the other hand, there are always some pockets of computational ...</summary>
+
+  </entry>
+
+</feed>
+
+
