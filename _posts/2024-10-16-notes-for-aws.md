@@ -6,7 +6,7 @@ author: <wenyan>
 category: [AWS]
 ---
 
-[Notes for AWS](https://wenyanzhu.github.io/noteaws) is a collection of notes for learning Amazon Web Service.
+[Notes for AWS](https://opengrs.com/noteaws) is a collection of notes for learning Amazon Web Service.
 
 ## What is the hope of the world? 
 

@@ -6,7 +6,8 @@
   **E**fficiency
   **A**ttainment
   **C**uriosity
-  **E**xperience
- 
+  **E**xperience 
 
-[Notebook for AWS Cloud Computing](https://wenyanzhu.github.io/noteaws/)
+
+Build and Serve Locally: 
+  bundle exec jekyll serve
