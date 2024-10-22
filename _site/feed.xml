@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
   <title>Open G.R.S</title>
-  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-10-18T00:17:53+11:00</updated>
+  <subtitle>Open for Growth, Resilience and Smart.</subtitle>
+  <updated>2024-10-22T23:34:09+11:00</updated>
   <author>
     <name>Open G.R.S</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/notes-for-aws/" rel="alternate" type="text/html" title="Notes for AWS" />
     <published>2024-10-16T22:50:00+11:00</published>
   
-    <updated>2024-10-16T22:50:00+11:00</updated>
+    <updated>2024-10-18T00:18:38+11:00</updated>
   
     <id>http://localhost:4000/posts/notes-for-aws/</id>
     <content src="http://localhost:4000/posts/notes-for-aws/" />

@@ -19,7 +19,7 @@ title: Open G.R.S # the main title
 tagline: Growth, Resilience and Smart
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+   Open for Growth, Resilience and Smart.
 
 # Fill in the protocol & hostname for your site. 
 url: "https://wenyanzhu.github.io/"
@@ -55,7 +55,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: 9855861943 # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -219,3 +219,18 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      description:
+      image:
+      category:
+      tags:
+    posts:
+      description:
+      image:
+      category:
+      tags:
+      published: false
+      sitemap: falses
