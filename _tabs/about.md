@@ -29,7 +29,7 @@ Essential of learning is to undertand principles of the world, build perosnalise
 
 <center>Founder</center>
 <br/>
-Wenyan is an engineer and continuous learning practitioner. He is passionate to develop the best pratices to discover, understand, apply principles in real world from various areas:
+Wenyan is an engineer and continuous learning practitioner. He is passionate to develop the best practices to discover, understand, apply principles in real world from various areas:
   * Computer science
   * Software engineering
   * System dynamics

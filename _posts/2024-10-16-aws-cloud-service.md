@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Notes for AWS
+title: Cloud Computing
 date: 2024-10-16 22:50 +1100
 author: <wenyan>
-category: [AWS]
+category: [Cloud Computing]
 ---
-
-[Notes for AWS](https://opengrs.com/noteaws) is a collection of notes for learning Amazon Web Service.
-
+ 
 ## What is the hope of the world? 
 
 Have you asked the questions **what is the hope of the world**?
@@ -65,8 +63,6 @@ On other hand, cloud computing is a complex system and it needs to achieve or ba
 * **OS Rely on Performance from CS**
 	* OS:  Operational System
 	* CS: Computer Science 
-
-[Go to learn AWS by Notes](https://wenyanzhu.github.io/noteaws)
 
 ## Reference
 

@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Open G.R.S</title>
   <subtitle>Open for Growth, Resilience and Smart.</subtitle>
-  <updated>2024-10-22T23:34:09+11:00</updated>
+  <updated>2025-07-15T22:15:39+10:00</updated>
   <author>
     <name>Open G.R.S</name>
     <uri>http://localhost:4000/</uri>
@@ -13,38 +13,90 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
-  <rights> © 2024 Open G.R.S </rights>
+  <rights> © 2025 Open G.R.S </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
-    <title>Notes for AWS</title>
-    <link href="http://localhost:4000/posts/notes-for-aws/" rel="alternate" type="text/html" title="Notes for AWS" />
-    <published>2024-10-16T22:50:00+11:00</published>
+    <title>Efficiency and Innovation</title>
+    <link href="http://localhost:4000/posts/efficiency-innovation/" rel="alternate" type="text/html" title="Efficiency and Innovation" />
+    <published>2025-07-15T21:00:00+10:00</published>
   
-    <updated>2024-10-18T00:18:38+11:00</updated>
+    <updated>2025-07-15T21:00:00+10:00</updated>
   
-    <id>http://localhost:4000/posts/notes-for-aws/</id>
-    <content src="http://localhost:4000/posts/notes-for-aws/" />
+    <id>http://localhost:4000/posts/efficiency-innovation/</id>
+    <content src="http://localhost:4000/posts/efficiency-innovation/" />
     <author>
       <name><wenyan></name>
     </author>
 
   
     
-    <category term="AWS" />
+    <category term="Innovation" />
     
   
 
-  <summary>Notes for AWS is a collection of notes for learning Amazon Web Service.
+  <summary>Efficiency and Innovation: Two Sides of the Same Coin
 
-What is the hope of the world?
+Efficiency and innovation are often seen as distinct concepts, but they are deeply interconnected and complementary. While efficiency thrives in the realm of certainty, innovation flourishes in the landscape of uncertainty. Together, they form a unified process of resource optimization and forward progress.
+
+The Role of Efficiency: Masterin...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Dual Impact of Artificial Intelligence</title>
+    <link href="http://localhost:4000/posts/dual-impact-ai/" rel="alternate" type="text/html" title="Dual Impact of Artificial Intelligence" />
+    <published>2025-07-14T21:00:00+10:00</published>
+  
+    <updated>2025-07-14T21:00:00+10:00</updated>
+  
+    <id>http://localhost:4000/posts/dual-impact-ai/</id>
+    <content src="http://localhost:4000/posts/dual-impact-ai/" />
+    <author>
+      <name><wenyan></name>
+    </author>
+
+  
+    
+    <category term="Artificial intelligence" />
+    
+  
+
+  <summary>The Dual Impact of Artificial Intelligence: Short-term Gains and Long-term Challenges
+
+Artificial intelligence (AI) is reshaping industries and redefining productivity across the board. Its impact is twofold: a short-term surge in efficiency and cost reduction, paired with a long-term challenge to address the evolving needs of society. As AI continues to advance, its influence will not only be ...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Cloud Computing</title>
+    <link href="http://localhost:4000/posts/aws-cloud-service/" rel="alternate" type="text/html" title="Cloud Computing" />
+    <published>2024-10-16T22:50:00+11:00</published>
+  
+    <updated>2024-10-16T22:50:00+11:00</updated>
+  
+    <id>http://localhost:4000/posts/aws-cloud-service/</id>
+    <content src="http://localhost:4000/posts/aws-cloud-service/" />
+    <author>
+      <name><wenyan></name>
+    </author>
+
+  
+    
+    <category term="Cloud Computing" />
+    
+  
+
+  <summary>What is the hope of the world?
 
 Have you asked the questions what is the hope of the world?
 
-There is an answer from Stephen Walfram that the world is from a basic science of the phenomenon of computational irreducibly, so it tells us the world is reliable. On the other hand, there are always some pockets of computational ...</summary>
+There is an answer from Stephen Walfram that the world is from a basic science of the phenomenon of computational irreducibly, so it tells us the world is reliable. On the other hand, there are always some pockets of computational reducible, which encourage us to explore more patterns of the world; beca...</summary>
 
   </entry>
 
